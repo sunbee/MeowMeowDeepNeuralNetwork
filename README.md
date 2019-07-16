@@ -4,7 +4,7 @@
 ![hello_kitty](https://user-images.githubusercontent.com/5471571/61269061-135d6700-a763-11e9-9c22-ec7edf5ae3cf.jpg)
 
 What to use this notebook for:
-- Access a fast computational framework for Deep Learning in linear algebra.
+- Access a linear algebraic framework for fast computations in Deep Learning.
 - Develop intuition for how hidden layers increase a neural network's capacity for learning.
 - Customize the classifier with image datasets. 
 
