@@ -5,7 +5,7 @@
 
 What to use this notebook for:
 - Access the computational framework for Deep Learning in linear algebra for fast computation.
-- Develop intuition for how more hidden layers increase a neural network's capacity for learning.
+- Develop intuition for how hidden layers increase a neural network's capacity for learning.
 - Customize the classifier with image datasets. 
 
 Further developments in computer's ability to recognize images are found in Convolutional Neural Networks and Neural Transfer Learning.
